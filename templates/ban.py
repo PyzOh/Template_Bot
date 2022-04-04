@@ -1,4 +1,3 @@
-from posixpath import splitdrive
 import discord
 from discord import *
 import asyncio
